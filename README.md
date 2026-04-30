@@ -49,8 +49,9 @@ O sistema permite:
 
     polar/
       backend/
-      frontend/
+      database/
       docs/
+      frontend/
 
 ------------------------------------------------------------------------
 
