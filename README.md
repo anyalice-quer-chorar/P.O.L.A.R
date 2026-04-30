@@ -94,7 +94,7 @@ Servidor rodando em:
 - test - testes
 - chore - tarefas internas (config, build)
 
-A descrição precisa ser objetiva
+Descrição objetiva
 
 Ex:
    
